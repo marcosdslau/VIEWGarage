@@ -1,4 +1,14 @@
-# md_view_integrate_v4
+# VIEWGarage
+
+## Softwares
+
+* NodeJS 16.4.2
+
+> Obs: Caso não tenha instalado o VueJs, será necessário que o instale, basta executar o comando:
+
+```
+npm install vue
+```
 
 ## Project setup
 ```
